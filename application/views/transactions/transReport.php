@@ -5,7 +5,7 @@ $total_earned = 0;
 
 /**
  * @fileName transReport
- * @author Ameer <amirsanni@gmail.com>
+ * @author Ameer <Stephen vic@gmail.com>
  * @date 06-Apr-2017
  */
 ?>

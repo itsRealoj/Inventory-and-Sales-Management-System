@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('');
 /**
  * Description of Dashboard
  *
- * @author Amir <amirsanni@gmail.com>
+ * @author Stephen  <Stephen vic@gmail.com>
  * @date 31st Dec, 2015
  */
 class Dashboard extends CI_Controller{
